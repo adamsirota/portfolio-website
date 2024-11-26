@@ -39,7 +39,7 @@ const Home: React.FC = () => {
                 <h1>education</h1>
                 <h3>university of maryland, college park</h3>
                 <p>expected graduation: 2027</p>
-                <p>relevant coursework: object-oriented programming, applied probability and statistics</p>
+                <p>relevant coursework: object-oriented programming, applied probability and statistics, computer systems, discrete structures</p>
 
                 <h3>the bronx high school of science</h3>
                 <p>september 2020 - june 2024</p>

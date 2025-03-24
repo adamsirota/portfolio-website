@@ -77,6 +77,12 @@ h3 {
   margin-bottom: 0.5rem;
 }
 
+h4 {
+  color: var(--subheading-color);
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
 p {
   margin: 0.25rem 0;
   color: var(--paragraph-color);

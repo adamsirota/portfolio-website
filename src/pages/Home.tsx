@@ -38,8 +38,12 @@ const Home: React.FC = () => {
             <section id ="education">
                 <h1>education</h1>
                 <h3>university of maryland, college park</h3>
-                <p>expected graduation: 2027</p>
-                <p>relevant coursework: object-oriented programming, applied probability and statistics, computer systems, discrete structures</p>
+                <p>expected graduation: december 2026</p>
+                <p>relevant coursework:</p>
+                <p>cmsc132 - object-oriented programming</p>
+                <p>stat400 - applied probability and statistics</p>
+                <p>cmsc216 - computer systems</p>
+                <p>cmsc250 - discrete structures</p>
 
                 <h3>the bronx high school of science</h3>
                 <p>september 2020 - june 2024</p>
@@ -49,9 +53,10 @@ const Home: React.FC = () => {
             <section id="skills">
                 <h1>skills</h1>
                 <h3>programming languages</h3>
-                <p>java, python, typescript, html, css</p>
+                <p>comfortable in java, python, html, css, and javascript/typescript</p>
+                <p>currently learning c and assembly</p>
                 <h3>tools and technologies</h3>
-                <p>visual studio code, eclipse, jupyter notebook, git, react.js, j unit testing</p>
+                <p>comfortable with vs code, eclipse, jupyter notebook, git version control, react.js, and j unit testing</p>
             </section>
 
             <section id="projects">

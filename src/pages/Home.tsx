@@ -38,8 +38,9 @@ const Home: React.FC = () => {
             <section id ="education">
                 <h1>education</h1>
                 <h3>university of maryland, college park</h3>
-                <p>expected graduation: december 2026</p>
-                <p>relevant coursework:</p>
+                <h5>expected graduation:</h5>
+                <p>december 2026 (tentative)</p>
+                <h5>relevant coursework:</h5>
                 <p>cmsc132 - object-oriented programming</p>
                 <p>stat400 - applied probability and statistics</p>
                 <p>cmsc216 - computer systems</p>
@@ -47,7 +48,8 @@ const Home: React.FC = () => {
 
                 <h3>the bronx high school of science</h3>
                 <p>september 2020 - june 2024</p>
-                <p>relevant coursework: linear algebra, app development, ap computer science a, ap calculus bc</p>
+                <h5>relevant coursework:</h5>
+                <p>linear algebra, app development, ap computer science a, ap calculus bc</p>
             </section>
 
             <section id="skills">

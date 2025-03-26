@@ -66,6 +66,20 @@ const Home: React.FC = () => {
                 <div className="project-card">
                     <h3 className="project-title">
                         <a href="https://github.com/adamsirota/bank-complaints-analysis" target='_blank'>
+                            online test system <i className="fab fa-github"></i>
+                        </a>
+                    </h3>
+                    <p>project built for object-oriented programming ii class at umd:</p>
+                    <ol>
+                        <li>developed a scalable data management system for an online test platform, supporting multiple question formats.</li>
+                        <li>engineered an automatic grading system and generated statistical reports for students based on performance.</li>
+                        <li>optimized data structures (maps, sets, lists) for efficient storage and retrieval.</li>
+                        <li>designed and executed junit tests to ensure functionality.</li>
+                    </ol>
+                </div>
+                <div className="project-card">
+                    <h3 className="project-title">
+                        <a href="https://github.com/adamsirota/bank-complaints-analysis" target='_blank'>
                             bank complaint analysis <i className="fab fa-github"></i>
                         </a>
                     </h3>

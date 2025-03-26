@@ -65,17 +65,17 @@ const Home: React.FC = () => {
                 <h1>projects</h1> 
                 <div className="project-card">
                     <h3 className="project-title">
-                        <a href="https://github.com/adamsirota/bank-complaints-analysis" target='_blank'>
+                        <a href="https://github.com/adamsirota/online-test-system/" target='_blank'>
                             online test system <i className="fab fa-github"></i>
                         </a>
                     </h3>
                     <p>project built for object-oriented programming ii class at umd:</p>
-                    <ol>
+                    <ul>
                         <li>developed a scalable data management system for an online test platform, supporting multiple question formats.</li>
                         <li>engineered an automatic grading system and generated statistical reports for students based on performance.</li>
                         <li>optimized data structures (maps, sets, lists) for efficient storage and retrieval.</li>
                         <li>designed and executed junit tests to ensure functionality.</li>
-                    </ol>
+                    </ul>
                 </div>
                 <div className="project-card">
                     <h3 className="project-title">
@@ -84,10 +84,10 @@ const Home: React.FC = () => {
                         </a>
                     </h3>
                     <p>capstone project made during pre-internship program at citigroup. used data science, machine learning, and ai techniques to:</p>
-                    <ol>
+                    <ul>
                         <li>find and visualize trends in a large dataset of complaints filed to banks.</li>
                         <li>train a model to classify new incoming complaints automatically.</li>
-                    </ol>
+                    </ul>
                     <p>presented findings to citigroup executives and peers.</p>
                 </div>
                 <div className="project-card">

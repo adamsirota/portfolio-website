@@ -10,6 +10,7 @@ const Home: React.FC = () => {
             <section id="about">
                 <h1>about me</h1>
                 <p>hey, i'm adam sirota. i'm from new york city and am currently studying computer science at the university of maryland.</p>
+                <p>currently: intern at <a href = "https://kaboom.ai">kaboom ai</a>.</p>
                 
                 <div style={{ display: "flex", gap: "1rem", marginTop: "1rem" }}>
                     
@@ -55,10 +56,10 @@ const Home: React.FC = () => {
             <section id="skills">
                 <h1>skills</h1>
                 <h3>programming languages</h3>
-                <p>comfortable in java, python, html, css, and javascript/typescript</p>
-                <p>currently learning c and assembly</p>
+                <p>comfortable in java, python, c, html, css, javascript/typescript, and assembly (lol)</p>
                 <h3>tools and technologies</h3>
-                <p>comfortable with vs code, eclipse, jupyter notebook, git version control, react.js, and j unit testing</p>
+                <p>comfortable with git version control, react, cursor, junit testing, jira, and jupyter notebook</p>
+                <p>learning aws lambdas and spring boot</p>
             </section>
 
             <section id="projects">

@@ -10,7 +10,7 @@ const Home: React.FC = () => {
             <section id="about">
                 <h1>about me</h1>
                 <p>hey, i'm adam sirota. i'm from new york city and am currently studying computer science at the university of maryland.</p>
-                <p>currently: intern at <a href = "https://kaboom.ai">kaboom ai</a>.</p>
+                <p>currently: intern at <a href = "https://kaboom.ai" target="_blank">kaboom ai</a>.</p>
                 
                 <div style={{ display: "flex", gap: "1rem", marginTop: "1rem" }}>
                     

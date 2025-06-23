@@ -40,13 +40,11 @@ const Home: React.FC = () => {
                 <h1>education</h1>
                 <h3>university of maryland, college park</h3>
                 <h4>expected graduation:</h4>
-                <p>december 2026 (tentative)</p>
+                <p>december 2026</p>
+                <p></p>
                 <h4>relevant coursework:</h4>
-                <p>cmsc132 - object-oriented programming</p>
-                <p>stat400 - applied probability and statistics</p>
-                <p>cmsc216 - computer systems</p>
-                <p>cmsc250 - discrete structures</p>
-
+                <p>organization of programming languages, algorithms, data science, discrete structures, computer systems, object-oriented programming</p>
+                <p></p>
                 <h3>the bronx high school of science</h3>
                 <p>september 2020 - june 2024</p>
                 <h4>relevant coursework:</h4>
@@ -54,12 +52,14 @@ const Home: React.FC = () => {
             </section>
 
             <section id="skills">
-                <h1>skills</h1>
+                <h1>skills and interests</h1>
                 <h3>programming languages</h3>
                 <p>comfortable in java, python, c, html, css, javascript/typescript, and assembly (lol)</p>
                 <h3>tools and technologies</h3>
                 <p>comfortable with git version control, react, cursor, junit testing, jira, and jupyter notebook</p>
-                <p>learning aws lambdas and spring boot</p>
+                <p>learning aws lambda and spring boot</p>
+                <h3>other interests</h3>
+                <p>public policy, sociology, psych/neuro, philosophy, literature, sports</p>
             </section>
 
             <section id="projects">
